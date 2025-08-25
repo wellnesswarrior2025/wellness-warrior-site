@@ -83,7 +83,7 @@
   <header>
     <h1>Wellness Warrior</h1>
     <p>Conquer obesity & autoimmune disease with natural solutions</p>
-    <a href="https://sante.com" class="cta-btn" target="_blank">Order Now via Sante</a>
+    <a href="https://mysante.com/Vinespiritu" class="cta-btn" target="_blank">Order Now via Sante</a>
   </header>
 
   <section>
